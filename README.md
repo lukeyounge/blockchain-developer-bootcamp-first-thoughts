@@ -1,6 +1,7 @@
 # blockchain-developer-bootcamp-final-project
 
-Businesses want to acknowledge staff and other stakeholders, and often use corporate gifts to achieve this. Staff members may recieve ornaments, pens, caps, tee-shirts. Sometimes these products are useful, often they gather dust and are a waste of resources.
+## Intro
+Businesses want to acknowledge staff and other stakeholders, and often use corporate gifts to achieve this. Staff members may recieve ornaments, pens, caps, tee-shirts, etc. Sometimes these products are useful, often they gather dust and are a waste of resources.
 
 I'd like to create a simple DIY app for an organisation to mint their own NFTs, then batch deliver those via a redeem link. 
 
