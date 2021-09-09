@@ -13,6 +13,8 @@ I'd like to create a simple DIY app for an organisation to mint their own NFTs, 
   -- bonus points if I can retain a fee for the mint to protocol 
 - Ideally a very basic but good looking simple wallet for the user to claim via and see their NFTs
 
+
+
 ## References
 Proof of Attendance Protocol. In many ways my project will share features with POAP, differing mainly in the intent (acknowledgment, recognition for achievemnets, contributions rather than proving attendance)
 
