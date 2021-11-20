@@ -4,7 +4,7 @@ This document will list the design patterns and attack vectors in the course.
 In the final project requirements, available in the course here, there is a requirement: 
 
 - Use at least two design patterns from the "Smart Contracts" section
-- Protect against two attack vectors from the "Smart Contracts" section with its SWC number
+- Protect against two attack vectors from the "Smart Contracts" section with its [SWC number](https://swcregistry.io/)
 
 
 ## Below is a list of design patterns in the Smart Contract chapter, along with a short description and the title of the lesson where it’s mentioned. To meet the requirement, you need only two of the following, documented in your design_pattern_decisions.md:
