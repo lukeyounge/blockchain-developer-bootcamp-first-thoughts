@@ -3,7 +3,7 @@ This document will list the design patterns and attack vectors in the course.
 
 In the final project requirements, available in the course here, there is a requirement: 
 
-- Use at least two design patterns from the "Smart Contracts" section
+- Use at least two design patterns from the "Smart Contracts" section [here](https://courses.consensys.net/courses/take/blockchain-developer-bootcamp-registration-2021/assignments/27500647-final-project-submission)
 - Protect against two attack vectors from the "Smart Contracts" section with its [SWC number](https://swcregistry.io/)
 
 
